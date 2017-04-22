@@ -15,8 +15,8 @@ The React meetup group meets every month and shares knowledge/learnings about op
 The aim of this github org is to:
 
 - share/store content from the meetups
-- share projects that will be useful to the community
-- collaborate on projects
+- collaborate on open source projects
+- help new folks come up to speed
 - promote the meetup
 
 &nbsp;
