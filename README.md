@@ -10,7 +10,7 @@
 
 #### Why does this org exist?
 
-The React meetup group shares knowledge/learnings about open source revolving around React.
+The React meetup group meets every month and shares knowledge/learnings about open source revolving around React.
 
 The aim of this github org is to:
 
