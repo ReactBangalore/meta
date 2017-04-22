@@ -8,6 +8,25 @@
 
 &nbsp;
 
-To get an invite please comment on [this issue](https://github.com/ReactBangalore/meta/issues/2).
+#### Why does this org exist?
+
+The React meetup group shares knowledge/learnings about open source revolving around React.
+
+The aim of this github org is to:
+
+- share/store content from the meetups
+- share projects that will be useful to the community
+- collaborate on projects
+- promote the meetup
+
+&nbsp;
+
+#### How do I join?
+
+To join this github org, please comment on [this issue](https://github.com/ReactBangalore/meta/issues/2).
+
+To attend the next meetup, keep an eye on [meetup/ReactBangalore](https://www.meetup.com/ReactJS-Bangalore).
+
+Follow us [on twitter](https://twitter.com/ReactBangalore)
 
 &nbsp;
