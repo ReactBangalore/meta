@@ -23,11 +23,13 @@ The aim of this github org is to:
 
 #### How do I join?
 
-To join this github org, please comment on [this issue](https://github.com/ReactBangalore/meta/issues/2).
+- To join this github org, please comment on [this issue](https://github.com/ReactBangalore/meta/issues/2).
 
-To attend the next meetup, keep an eye on [meetup/ReactBangalore](https://www.meetup.com/ReactJS-Bangalore).
+- To attend the next meetup, keep an eye on [meetup/ReactBangalore](https://www.meetup.com/ReactJS-Bangalore).
 
-Follow us [on twitter](https://twitter.com/ReactBangalore)
+- Check out the [running projects repo](https://github.com/ReactBangalore/projects).
+
+- Follow us [on twitter](https://twitter.com/ReactBangalore)
 
 &nbsp;
 
