@@ -8,3 +8,6 @@
 
 &nbsp;
 
+To get an invite please comment on [this issue](https://github.com/ReactBangalore/meta/issues/2).
+
+&nbsp;
