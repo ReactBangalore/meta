@@ -30,3 +30,9 @@ To attend the next meetup, keep an eye on [meetup/ReactBangalore](https://www.me
 Follow us [on twitter](https://twitter.com/ReactBangalore)
 
 &nbsp;
+
+#### Have an idea/suggestion?
+
+[Create an issue](https://github.com/ReactBangalore/meta/issues/new)
+
+&nbsp;
